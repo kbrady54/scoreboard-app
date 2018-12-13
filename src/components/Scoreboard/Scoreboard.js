@@ -6,7 +6,7 @@ const temporaryScoreTemplate = {
   awayTeam: "ATL",
   homeScore: "3",
   awayScore: "28",
-  quarter: "3",
+  quarter: "4",
   time: "13:22",
   down: "3",
   distance: "6"
